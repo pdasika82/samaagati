@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pdasika82.github.io/samaagati/sitemap.xml
